@@ -1,0 +1,52 @@
+{
+  "faqs": [
+    {
+      "question": "What courses are available?",
+      "answer": "We offer undergraduate and postgraduate courses in computer applications, commerce, science and arts."
+    },
+    {
+      "question": "How can I apply for admission?",
+      "answer": "You can apply through the college admission office or the official admission portal. Check eligibility and required documents before applying."
+    },
+    {
+      "question": "What are the college timings?",
+      "answer": "College timings may vary by course and semester. Please check the official college notice for the current schedule."
+    },
+    {
+      "question": "How can I contact the college?",
+      "answer": "You can contact the college office using the phone number or email listed on its official website."
+    },
+    {
+      "question": "What documents are needed for admission?",
+      "answer": "Commonly required documents include academic marksheets, identity proof, photographs and applicable category or transfer certificates."
+    },
+    {
+      "question": "How do I pay my fees?",
+      "answer": "Follow the fee payment instructions provided by your institution. Keep the payment receipt for future reference."
+    },
+    {
+      "question": "Are scholarships available?",
+      "answer": "Scholarships may be available through government schemes or institutional programs. Check eligibility and deadlines on the relevant official portal."
+    },
+    {
+      "question": "How can I get my exam timetable?",
+      "answer": "Check the official college or university website and notices for the latest examination timetable."
+    },
+    {
+      "question": "How do I get my admit card?",
+      "answer": "Follow your university's official instructions for downloading or collecting the admit card. Contact the examination office if you need help."
+    },
+    {
+      "question": "Is attendance compulsory?",
+      "answer": "Attendance requirements depend on your university and course regulations. Check your institution's current academic rules."
+    },
+    {
+      "question": "How can I get my result?",
+      "answer": "Visit your university's official results portal and enter the requested examination details."
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're welcome! Feel free to ask another college-related question."
+    }
+  ]
+}
